@@ -1,0 +1,8 @@
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\bin\Debug\Tarea5_SantiagoMartinez.exe.config
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\bin\Debug\Tarea5_SantiagoMartinez.exe
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\bin\Debug\Tarea5_SantiagoMartinez.pdb
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\obj\Debug\Tarea5_SantiagoMartinez.csproj.AssemblyReference.cache
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\obj\Debug\Tarea5_SantiagoMartinez.csproj.SuggestedBindingRedirects.cache
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\obj\Debug\Tarea5_SantiagoMartinez.csproj.CoreCompileInputs.cache
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\obj\Debug\Tarea5_SantiagoMartinez.exe
+C:\Users\Santiago Martz\Desktop\Tarea5_SantiagoMartinez\obj\Debug\Tarea5_SantiagoMartinez.pdb
